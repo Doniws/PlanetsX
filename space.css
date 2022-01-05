@@ -213,7 +213,7 @@ section {
 }
 #sectiontwo{
   width: 100%;
-  height: 100vh;
+  height: 85vh;
   position: relative;
   background-image: url(images/therocketbg.webp);
   
@@ -232,7 +232,7 @@ section {
 /* ini buat linknya */
 .planet-links{
   width: 95%;
-  height: 5vh;
+  /* height: 5vh; */
   position: absolute;
   color: #fff;
   display: flex;
@@ -240,7 +240,7 @@ section {
   list-style: none;
   font-size: 18px;
   z-index: 1;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
 }
 .planet-links .swiper-pagination-bullet {
   opacity: 0.2;
